@@ -10,9 +10,9 @@
 
 **想要得到某样东西，最好的办法是让自己配得上它。**
 
-PHPer 的开发的技术栈大多是 LAMP 或者是 LNMP，其中 Linux、Apache（Nginx）都比较偏运维，但是 PHP、MySQL 是每一位合格的 PHPer 都必须精通的技术栈。
+Java 的开发的技术栈大多是 LAMP 或者是 LNMP，其中 Linux、Apache（Nginx）都比较偏运维，但是 Java、MySQL 是每一位合格的 Javaer 都必须精通的技术栈。
 
-而 Web 开发又不单单只靠 PHP、MySQL，更多的还需要了前端、Web 安全、高并发、性能优化，甚至还需要学习网络协议、算法等等相关的编程知识。
+而 Web 开发又不单单只靠 Java、MySQL，更多的还需要了前端、Web 安全、高并发、性能优化，甚至还需要学习网络协议、算法等等相关的编程知识。
 
 这次整理了不少面试相关的知识和技巧，给大家简单介绍一下纲要：
 
@@ -23,7 +23,7 @@ PHPer 的开发的技术栈大多是 LAMP 或者是 LNMP，其中 Linux、Apache
 - [MySQL 篇](mysql.md)
 - [Linux、Git 篇](linux.md)
 - [程序员如何写好一份简历](readResume.md)
-- [结语：写给程序员的一些建议](givePHperSuggest.md)
+- [结语：写给程序员的一些建议](giveJavaSuggest.md)
 - [扩展阅读资源整理](readResources.md)
 
 **不论你是学习也好，面试也好，都要明白一点，对于技术知识，不应该向背课文一样，死记硬背，理解大于记忆。**
